@@ -4,6 +4,7 @@ https://github.com/0xmoei/sonaric-node
 Sonaric Update
 ```
 CLI version:    v1.9.6
+
 Daemon version: v1.9.6
 
 ```shell
