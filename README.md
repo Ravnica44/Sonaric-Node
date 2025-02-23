@@ -6,25 +6,10 @@ Sonaric Update v1.9.6
 sudo systemctl stop sonaricd
 ```
 
-```shell
-apt-get install sonaricd sonaric
+`apt-get install sonaricd sonaric` or `sh -c "$(curl -fsSL https://get.sonaric.xyz/scripts/install.sh)"`
 ```
 
-`or`
-
-```shell
-sh -c "$(curl -fsSL https://get.sonaric.xyz/scripts/install.sh)"
-```
-
-```shell
-sonaric version
-```
-
-`and`
-
-```shell
-sonaric node-info
-```
+`sonaric version` and `sonaric node-info`
 
 ```shell
 sudo systemctl status sonaricd
