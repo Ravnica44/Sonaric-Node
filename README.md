@@ -7,7 +7,6 @@ sudo systemctl stop sonaricd
 ```
 
 `apt-get install sonaricd sonaric` or `sh -c "$(curl -fsSL https://get.sonaric.xyz/scripts/install.sh)"`
-```
 
 `sonaric version` and `sonaric node-info`
 
