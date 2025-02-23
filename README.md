@@ -3,12 +3,12 @@ https://github.com/0xmoei/sonaric-node
 ```shell
 Sonaric Update
 ```
-#CLI version:    v1.9.6
-#Daemon version: v1.9.6
+CLI version:    v1.9.6
+Daemon version: v1.9.6
 
 ```shell
 sudo systemctl stop sonaricd
-``
+```
 
 ```shell
 apt-get install sonaricd sonaric ou sh -c "$(curl -fsSL https://get.sonaric.xyz/scripts/install.sh)"
