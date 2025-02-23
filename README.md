@@ -17,7 +17,13 @@ sh -c "$(curl -fsSL https://get.sonaric.xyz/scripts/install.sh)"
 ```
 
 ```shell
-sonaric version et sonaric node-info
+sonaric version
+```
+
+`and`
+
+```shell
+sonaric node-info
 ```
 
 ```shell
