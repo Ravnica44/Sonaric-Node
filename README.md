@@ -2,12 +2,9 @@ https://github.com/0xmoei/sonaric-node
 
 ```shell
 Sonaric Update
-``
-
-```shell
-CLI version:    v1.9.6
-Daemon version: v1.9.6
-``
+```
+#CLI version:    v1.9.6
+#Daemon version: v1.9.6
 
 ```shell
 sudo systemctl stop sonaricd
